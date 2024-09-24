@@ -59,7 +59,3 @@ It is a reusable solution to a common problem that occurs in software design. It
 
 ### Design Patterns:
 - You could implement the **Observer Pattern** to notify users in real time when they receive a new message. Additionally, use the **Factory Pattern** to manage different types of messages (text, image, video).
-
----
-
-By mixing and matching system design, architecture, and design patterns, you create a well-structured, scalable, and maintainable software solution.
