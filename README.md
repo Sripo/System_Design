@@ -51,11 +51,13 @@ It is a reusable solution to a common problem that occurs in software design. It
 
 ## Example in IT Industry
 
-### System Design:
+### System Design :
 - In designing a **real-time messaging app** like WhatsApp, you’d consider how the app will handle millions of users, send/receive messages instantly, and handle failures.
   
-### Architecture:
+### Architecture :
 - You may decide to use **Event-Driven Architecture** so that all messages are sent asynchronously using a message broker (e.g., Kafka), allowing better scalability and fault tolerance.
 
-### Design Patterns:
+### Design Patterns :
 - You could implement the **Observer Pattern** to notify users in real time when they receive a new message. Additionally, use the **Factory Pattern** to manage different types of messages (text, image, video).
+
+
